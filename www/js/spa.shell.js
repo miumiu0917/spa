@@ -15,7 +15,7 @@ spa.shell = (function() {
     + '</div>'
     + '<div class="spa-shell-foot"></div>'
     + '<div class="spa-shell-chat"></div>'
-    + '<div class="spa-shell-modal"></div>';
+    + '<div class="spa-shell-modal"></div>'
   },
   stateMap = { $container: null },
   jqueryMap = {},
