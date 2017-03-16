@@ -29,7 +29,7 @@ spa.shell = (function() {
     var $container = stateMap.$container;
     jqueryMap = {
       $container: $container
-      $chat: $container.find('.spa-shell-chat')
+      , $chat: $container.find('.spa-shell-chat')
     };
   };
 
